@@ -1,0 +1,1 @@
+export const Logo = () => <img src="/logo.svg" alt="logo" className="w-[75px] h-[75px]" />
